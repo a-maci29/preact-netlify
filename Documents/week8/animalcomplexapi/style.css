@@ -1,0 +1,19 @@
+html {
+    line-height: 1.15;
+    -webkit-text-size-adjust: 100%;
+  }
+
+  body {
+    margin: 0;
+  }
+
+  *{
+    box-sizing: border-box;
+  }
+
+  h1 {
+  }
+
+  #background {
+    background-image: url("https://unsplash.com/photos/NRQV-hBF10M"); 
+  }
